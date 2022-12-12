@@ -89,4 +89,5 @@ a:hover{
   text-align: center;
   margin: 10px;
   background-color: white;
+  touch-action: manipulation;
 }
